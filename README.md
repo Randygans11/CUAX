@@ -3,21 +3,21 @@
    JIKA ADA YANG EROR LANGSUNG HUBUNGI AUTHOR!! 
 
 # INSTALL BAHAN
-     (pkg update && pkg upgrade
+     pkg update && pkg upgrade
 
-     ( pkg install python git
+     pkg install python git
 
-     ( pip install requests bs4 futures
+     pip install requests bs4 futures
 
-     ( pip install rich
+     pip install rich
 
-     ( git clone https://github.com/Randygans11/CUAX
+     git clone https://github.com/Randygans11/CUAX
 
-     ( cd CUAX
+     cd CUAX
 
-     ( git pull
+     git pull
 
-     ( python CMBFX.py
+     python CMBFX.py
 
 
 # NOTE
